@@ -1,9 +1,10 @@
 #include<stdio.h>
- int main()
- {
-     int a;
-     printf("logic");
-    scanf("%d",&a);
-printf("2+2-2*2/2");
+ int main(){
+
+     int x;
+
+     x=(2+2-2*2/2);
+
+     printf("%d",x);
 
   }
